@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jonathan, an <a href="https://www.linkedin.com/in/jonathan-jimenez-b86862252">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects in Progress:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JJ-IT-Professional/osticket-prereqs)
