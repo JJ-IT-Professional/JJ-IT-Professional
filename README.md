@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects in Progress:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine on Azure](https://github.com/JJ-IT-Professional/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JJ-IT-Professional/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JJ-IT-Professional/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
